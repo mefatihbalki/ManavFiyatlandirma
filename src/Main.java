@@ -27,7 +27,7 @@ public class Main {
         //Patlıcan Kilosu
         System.out.print("Patlıcan'ın Kilosunu Girin: ");
         patlican = inp.nextDouble();
-
+//Toplam Tutar
 double tutar =(armut * armutf) + (elma * elmaf) + (domates * domatesf) + (muz * muzf) + (patlican * patlicanf);
         System.out.print("Toplam Tutar : " + tutar);
 
